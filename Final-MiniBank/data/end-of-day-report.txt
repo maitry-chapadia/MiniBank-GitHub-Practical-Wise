@@ -1,0 +1,7 @@
+===== END-OF-DAY REPORT =====
+Total deposits: Rs. 500
+Total withdrawals: Rs. 0
+Net change: Rs. 500
+Log files:
+transactions.log | size=36 bytes | modified=2026-10-25T08:04:26.744508434Z
+=============================
